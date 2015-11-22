@@ -118,4 +118,4 @@ This project does not attempt to reverse engineer the WhatsApp API or attempt to
 Contributions :pray:
 --------------------
 
-Contributions are welcome! For feature requests and bug reports please [submit an issue](hhttps://github.com/Skowt/Whatsie/issues) or Twitter [@DanSkowt](https://twitter.com/DanSkowt).
+Contributions are welcome! For feature requests and bug reports please [Submit An Issue](https://github.com/Skowt/Whatsie/issues) or Twitter [@DanSkowt](https://twitter.com/DanSkowt).
