@@ -37,13 +37,13 @@
     "postinstall": "(cd src && npm install)"
   },
   "license": "MIT",
-  "author": "Alexandru Rosianu <me@aluxian.com>",
-  "homepage": "http://whatsie.chat/",
+  "author": "Daniel Pietersen <dan@danielpietersen.com>",
+  "homepage": "https://github.com/Skowt/Whatsie",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aluxian/Whatsie.git"
+    "url": "https://github.com/Skowt/Whatsie"
   },
   "bugs": {
-    "url": "https://github.com/Aluxian/Whatsie/issues"
+    "url": "https://github.com/Skowt/Whatsie/issues"
   }
 }
